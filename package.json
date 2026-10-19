@@ -1,0 +1,12 @@
+{
+  "name": "web-development-lab",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Laboratorio de desenvolvimento web com exercicios explicados.",
+  "type": "module",
+  "engines": { "node": ">=24" },
+  "scripts": {
+    "demo": "node 02-javascript/funcoes-e-callbacks/demo.js",
+    "test": "node --test 02-javascript/funcoes-e-callbacks/calculadora.test.js"
+  }
+}
